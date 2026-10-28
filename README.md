@@ -1,6 +1,6 @@
 # shell-docs
 
-Shell experiments
+Shell utilities
 
 ## Install
 
